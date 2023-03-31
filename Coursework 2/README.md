@@ -1,5 +1,5 @@
 ## Authors:
-J. Wei (zcemwei@ucl.ac.uk), S. Zhu (ucabs40@ucl.ac.uk), Z. cHEn (zczl883@ucl.ac.uk)
+J. Wei (zcemwei@ucl.ac.uk), S. Zhu (ucabs40@ucl.ac.uk), Z. cHEn (zijie-chen.20@ucl.ac.uk)
 
 ## Description:
 This repository contains the solution for the Coursework_2 of
